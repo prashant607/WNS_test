@@ -7,7 +7,11 @@ e) Download and setup Environment Variable path to latest Chrome server folder.
 f) Execute the automation script.
 
 
-Full fledged idea for the framework :
+If I would have more time I would have added below functionalities to the suite :
 a) Page Object Model implementation for keeping the webelements and methods seperate for each webpage.
 b) Page factory implementation.
 c) Logging steps implementation.
+d) Multi-Browser Compatibility to test on multiple browsers using saucelabs.
+e) Reporting functionality for no. of tests passed and failed.
+f) Categorisation of the functionality of the steps for eg: Before hook (initialisation of the browser) , After hook (closing the browser) etc.
+g) implementation of screenshot feature to prpare artifacts.
